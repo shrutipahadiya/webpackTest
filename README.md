@@ -1,6 +1,7 @@
 # WEBPACK TEST::
 
-**This project is missing some essential webpack files and express to build and run properly!**
+**This project is missing some essential webpack files to build and a server to run properly!**
+**Fix the repo so it builds corrently and serves up our application!**
 
 ## BEFORE YOU BEGIN
 
